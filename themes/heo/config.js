@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到电开！', url: 'https://baike.baidu.com/item/大学生电器开发部?fromModule=lemma_search-box' },
-    { title: '一个充满激情与热爱的社团', url: '' },
+    { title: '一个充满激情与热爱的社团' },
     {title: '电子发烧友聚集地,小小电赛,智能车,拿捏😂', url: ''}
   ],
 
