@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享技术',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: '这是哪？',
+  HEO_HERO_TITLE_2: '电器开发部啊👌',
   HEO_HERO_TITLE_3: 'code.comefly.top',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '智能车?狗都不碰?👉',
