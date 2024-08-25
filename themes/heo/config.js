@@ -6,8 +6,8 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到电开！', url: 'https://baike.baidu.com/item/大学生电器开发部?fromModule=lemma_search-box' },
-    { title: '一个充满激情与热爱的社团',url:'https://hpuedd.com' },
-    {title: '电子发烧友聚集地,小小电赛,智能车,拿捏😂', url: 'https://hpuedd.com'}
+    { title: '一个充满激情与热爱的社团',url:'http://hpuedd.com' },
+    {title: '电子发烧友聚集地,小小电赛,智能车,拿捏😂', url: 'http://hpuedd.com'}
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -17,7 +17,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '这是哪？',
-  HEO_HERO_TITLE_2: '电器开发部啊👌',
+  HEO_HERO_TITLE_2: '电开啊👌',
   HEO_HERO_TITLE_3: 'code.comefly.top',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '智能车?狗都不碰?👉',
