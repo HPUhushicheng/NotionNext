@@ -15,12 +15,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
+  HEO_HERO_TITLE_1: '分享技术',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_3: 'code.comefly.top',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_5: '智能车?狗都不碰?👉',
+  HEO_HERO_TITLE_LINK: 'http://www.smartcarrace.com/newsinfo',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -115,7 +115,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://github.com/HPUhushicheng/xiaomiaomiao/discussions/1',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
